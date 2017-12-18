@@ -24,7 +24,7 @@ begin
 					   		readln;
 					   	end;
 				end
-	end		   
+		end		   
 	else
 		begin
 			writeln('tu trabalha muito!');
